@@ -319,10 +319,10 @@ PRODUCT_PACKAGES += \
     init.baseband.rc \
     init.vendor.rilcommon.rc \
     libdsms_vendor:64 \
-    secril_config_svc \
+#    secril_config_svc \
     libnetutils.vendor:64 \
     libsqlite.vendor:64 \
-    sehradiomanager \
+#    sehradiomanager \
     cbd \
     vendor.samsung.rilchip.slsi.rc
 
